@@ -1,3 +1,17 @@
 main {
   padding: 60px;
 }
+.blue {
+  background-color: blue;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 100px;
+}
+.red {
+  background-color: red;
+  width: 200px;
+  height: 250px;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
